@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-10-30T19:12:50.329200",
+  "session_id": "c7dd269d-4f5d-484c-953c-c808352b7194",
+  "data": {
+    "TiempoRespuestaPararse": 0.0,
+    "Precision": 33.46661376953125,
+    "TiempoActivoTarea": 222.55357360839844,
+    "CantAciertasTotales": 1,
+    "ObjetosInteractuadosCorrectamente": 5,
+    "TiempoRespuestaPregunta1": 2.889129638671875,
+    "TiempoRespuestaPregunta2": 9.312255859375,
+    "TiempoRespuestaPregunta3": 8.40850830078125,
+    "TiempoCapturarNumero": 12.514610290527344,
+    "TiempoTutorial": 152.28387451171875,
+    "TipoEscena": 2
+  },
+  "patient_info": {
+    "name": "Ana Conejeros",
+    "age": 67,
+    "rut": "19.471.268-5",
+    "dominant_hand": "right",
+    "updated_at": "2025-10-30T19:13:37.444608Z"
+  }
+}

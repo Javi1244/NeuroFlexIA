@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-12-04T19:30:27.183911",
+  "session_id": "4518544e-a587-451b-91d0-5e335b975300",
+  "data": {
+    "TiempoRespuestaPararse": 0.0,
+    "Precision": 11.11111068725586,
+    "TiempoActivoTarea": 382.49005126953125,
+    "CantAciertasTotales": 4,
+    "ObjetosInteractuadosCorrectamente": 7,
+    "TiempoRespuestaPregunta1": 48.32469177246094,
+    "TiempoRespuestaPregunta2": 22.831329345703125,
+    "TiempoRespuestaPregunta3": 109.40106201171875,
+    "TiempoCapturarNumero": 7.866585731506348,
+    "TiempoTutorial": 85.16465759277344,
+    "TipoEscena": 2
+  },
+  "patient_info": {
+    "name": "Luis Osorio",
+    "age": 73,
+    "rut": "6.987.415-0",
+    "dominant_hand": "right",
+    "updated_at": "2025-12-04T19:33:17.615030Z"
+  }
+}

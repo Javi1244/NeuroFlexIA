@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-10-16T19:30:55.613215",
+  "session_id": "fa69a734-8350-4e94-8330-460a840c876f",
+  "data": {
+    "TiempoRespuestaPararse": 0.0,
+    "Precision": 6.97265100479126,
+    "TiempoActivoTarea": 317.337158203125,
+    "CantAciertasTotales": 2,
+    "ObjetosInteractuadosCorrectamente": 1,
+    "TiempoRespuestaPregunta1": 58.357635498046875,
+    "TiempoRespuestaPregunta2": 18.75421142578125,
+    "TiempoRespuestaPregunta3": 40.9912109375,
+    "TiempoCapturarNumero": 51.605445861816406,
+    "TiempoTutorial": 318.286865234375,
+    "TipoEscena": 1
+  },
+  "patient_info": {
+    "name": "Erica Saavedra",
+    "age": 66,
+    "rut": "8.723.252-2",
+    "dominant_hand": "right",
+    "updated_at": "2025-10-16T20:08:27.363491Z"
+  }
+}

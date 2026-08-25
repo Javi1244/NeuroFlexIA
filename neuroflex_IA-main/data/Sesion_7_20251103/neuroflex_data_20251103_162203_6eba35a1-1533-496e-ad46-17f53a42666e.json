@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-11-03T19:22:03.575432",
+  "session_id": "6eba35a1-1533-496e-ad46-17f53a42666e",
+  "data": {
+    "TiempoRespuestaPararse": 0.0,
+    "Precision": 57.592628479003906,
+    "TiempoActivoTarea": 395.672607421875,
+    "CantAciertasTotales": 1,
+    "ObjetosInteractuadosCorrectamente": 0,
+    "TiempoRespuestaPregunta1": 46.09967041015625,
+    "TiempoRespuestaPregunta2": 55.951416015625,
+    "TiempoRespuestaPregunta3": 94.385009765625,
+    "TiempoCapturarNumero": 92.69095611572266,
+    "TiempoTutorial": 426.1180419921875,
+    "TipoEscena": 1
+  },
+  "patient_info": {
+    "name": "Jose Cáceres",
+    "age": 80,
+    "rut": "5.519.821-7",
+    "dominant_hand": "right",
+    "updated_at": "2025-11-03T19:22:52.943328Z"
+  }
+}

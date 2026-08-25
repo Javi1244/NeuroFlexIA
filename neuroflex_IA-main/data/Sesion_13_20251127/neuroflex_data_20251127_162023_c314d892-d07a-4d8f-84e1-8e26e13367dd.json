@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-11-27T19:20:23.838914",
+  "session_id": "c314d892-d07a-4d8f-84e1-8e26e13367dd",
+  "data": {
+    "TiempoRespuestaPararse": 0.0,
+    "Precision": 18.14105224609375,
+    "TiempoActivoTarea": 272.99298095703125,
+    "CantAciertasTotales": 3,
+    "ObjetosInteractuadosCorrectamente": 4,
+    "TiempoRespuestaPregunta1": 18.251907348632812,
+    "TiempoRespuestaPregunta2": 15.72357177734375,
+    "TiempoRespuestaPregunta3": 39.7728271484375,
+    "TiempoCapturarNumero": 7.792189121246338,
+    "TiempoTutorial": 129.11952209472656,
+    "TipoEscena": 1
+  },
+  "patient_info": {
+    "name": "Maria Vasquez",
+    "age": 78,
+    "rut": "6.645.059-7",
+    "dominant_hand": "right",
+    "updated_at": "2025-11-27T19:21:38.927413Z"
+  }
+}

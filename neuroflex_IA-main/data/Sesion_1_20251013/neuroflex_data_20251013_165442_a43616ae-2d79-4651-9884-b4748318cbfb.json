@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-10-13T19:54:42.272333",
+  "session_id": "a43616ae-2d79-4651-9884-b4748318cbfb",
+  "data": {
+    "TiempoRespuestaPararse": 0.0,
+    "Precision": 6.65289306640625,
+    "TiempoActivoTarea": 362.8849182128906,
+    "CantAciertasTotales": 3,
+    "ObjetosInteractuadosCorrectamente": 0,
+    "TiempoRespuestaPregunta1": 75.69796752929688,
+    "TiempoRespuestaPregunta2": 47.35638427734375,
+    "TiempoRespuestaPregunta3": 37.908935546875,
+    "TiempoCapturarNumero": 32.385467529296875,
+    "TiempoTutorial": 347.0557556152344,
+    "TipoEscena": 2
+  },
+  "patient_info": {
+    "name": "Maria Cabello",
+    "age": 85,
+    "rut": "19.471.268-5",
+    "dominant_hand": "right",
+    "updated_at": "2025-10-13T19:57:25.670806Z"
+  }
+}

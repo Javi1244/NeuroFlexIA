@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-10-13T20:24:30.889073",
+  "session_id": "82c58c58-dae4-45fc-8ef6-5ac0b84b7fb1",
+  "data": {
+    "TiempoRespuestaPararse": 0.0,
+    "Precision": 62.303409576416016,
+    "TiempoActivoTarea": 402.1046142578125,
+    "CantAciertasTotales": 1,
+    "ObjetosInteractuadosCorrectamente": 2,
+    "TiempoRespuestaPregunta1": 74.0579833984375,
+    "TiempoRespuestaPregunta2": 85.66409301757812,
+    "TiempoRespuestaPregunta3": 40.47845458984375,
+    "TiempoCapturarNumero": 20.872039794921875,
+    "TiempoTutorial": 149.995849609375,
+    "TipoEscena": 2
+  },
+  "patient_info": {
+    "name": "Ana Bustos",
+    "age": 80,
+    "rut": "4.885.176-2",
+    "dominant_hand": "right",
+    "updated_at": "2025-10-13T20:26:26.496667Z"
+  }
+}

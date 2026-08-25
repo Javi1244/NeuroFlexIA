@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-12-11T19:16:29.115528",
+  "session_id": "ca41e13c-5a3b-4e61-8b42-c170f22f381c",
+  "data": {
+    "TiempoRespuestaPararse": 0.0,
+    "Precision": 49.53346252441406,
+    "TiempoActivoTarea": 315.83782958984375,
+    "CantAciertasTotales": 2,
+    "ObjetosInteractuadosCorrectamente": 1,
+    "TiempoRespuestaPregunta1": 68.58395385742188,
+    "TiempoRespuestaPregunta2": 31.399993896484375,
+    "TiempoRespuestaPregunta3": 16.5926513671875,
+    "TiempoCapturarNumero": 11.935546875,
+    "TiempoTutorial": 182.67123413085938,
+    "TipoEscena": 1
+  },
+  "patient_info": {
+    "name": "Inez Maldonado",
+    "age": 80,
+    "rut": "5.842.782-9",
+    "dominant_hand": "right",
+    "updated_at": "2025-12-11T19:18:19.664691Z"
+  }
+}

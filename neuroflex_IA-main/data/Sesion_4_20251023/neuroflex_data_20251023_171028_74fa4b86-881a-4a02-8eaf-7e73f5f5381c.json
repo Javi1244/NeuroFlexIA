@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-10-23T20:10:28.587411",
+  "session_id": "74fa4b86-881a-4a02-8eaf-7e73f5f5381c",
+  "data": {
+    "TiempoRespuestaPararse": 0.0,
+    "Precision": 100.0,
+    "TiempoActivoTarea": 255.83885192871094,
+    "CantAciertasTotales": 2,
+    "ObjetosInteractuadosCorrectamente": 0,
+    "TiempoRespuestaPregunta1": 18.845062255859375,
+    "TiempoRespuestaPregunta2": 11.806365966796875,
+    "TiempoRespuestaPregunta3": 23.258941650390625,
+    "TiempoCapturarNumero": 34.059600830078125,
+    "TiempoTutorial": 175.20362854003906,
+    "TipoEscena": 2
+  },
+  "patient_info": {
+    "name": "Jose Baeza",
+    "age": 67,
+    "rut": "8.507.187-4",
+    "dominant_hand": "right",
+    "updated_at": "2025-10-23T20:12:10.626347Z"
+  }
+}

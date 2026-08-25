@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-12-04T20:16:10.355221",
+  "session_id": "15b321dd-3831-44e0-bc5e-da6cee4c57eb",
+  "data": {
+    "TiempoRespuestaPararse": 0.0,
+    "Precision": 15.024849891662598,
+    "TiempoActivoTarea": 245.71975708007812,
+    "CantAciertasTotales": 3,
+    "ObjetosInteractuadosCorrectamente": 6,
+    "TiempoRespuestaPregunta1": 31.177413940429688,
+    "TiempoRespuestaPregunta2": 5.55224609375,
+    "TiempoRespuestaPregunta3": 9.750701904296875,
+    "TiempoCapturarNumero": 9.57383918762207,
+    "TiempoTutorial": 116.64967346191406,
+    "TipoEscena": 1
+  },
+  "patient_info": {
+    "name": "Maria Cortez",
+    "age": 64,
+    "rut": "9.560.659-8",
+    "dominant_hand": "left",
+    "updated_at": "2025-12-04T20:17:26.890363Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-10-16T19:15:18.744038",
+  "session_id": "da861efb-2c30-4c0e-9f14-4d97ad57edb2",
+  "data": {
+    "TiempoRespuestaPararse": 0.0,
+    "Precision": 3.6500911712646484,
+    "TiempoActivoTarea": 271.4764404296875,
+    "CantAciertasTotales": 0,
+    "ObjetosInteractuadosCorrectamente": 2,
+    "TiempoRespuestaPregunta1": 9.44268798828125,
+    "TiempoRespuestaPregunta2": 8.634765625,
+    "TiempoRespuestaPregunta3": 54.179840087890625,
+    "TiempoCapturarNumero": 21.262195587158203,
+    "TiempoTutorial": 156.13076782226562,
+    "TipoEscena": 2
+  },
+  "patient_info": {
+    "name": "Carlos Jara",
+    "age": 71,
+    "rut": "6.261.516-8",
+    "dominant_hand": "right",
+    "updated_at": "2025-10-16T20:06:53.303392Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-11-27T20:13:22.981294",
+  "session_id": "c3416954-59cd-48bd-9d8f-91509b89c5c7",
+  "data": {
+    "TiempoRespuestaPararse": 0.0,
+    "Precision": 64.33524322509766,
+    "TiempoActivoTarea": 243.12908935546875,
+    "CantAciertasTotales": 1,
+    "ObjetosInteractuadosCorrectamente": 3,
+    "TiempoRespuestaPregunta1": 13.469100952148438,
+    "TiempoRespuestaPregunta2": 12.78814697265625,
+    "TiempoRespuestaPregunta3": 17.607696533203125,
+    "TiempoCapturarNumero": 8.781329154968262,
+    "TiempoTutorial": 137.5796356201172,
+    "TipoEscena": 1
+  }
+}

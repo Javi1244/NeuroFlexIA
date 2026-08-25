@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-12-04T21:06:10.285344",
+  "session_id": "85d8d8de-9022-49d8-ab23-6095df9c1555",
+  "data": {
+    "TiempoRespuestaPararse": 0.0,
+    "Precision": 0.18579228222370148,
+    "TiempoActivoTarea": 318.38763427734375,
+    "CantAciertasTotales": 1,
+    "ObjetosInteractuadosCorrectamente": 4,
+    "TiempoRespuestaPregunta1": 37.14851379394531,
+    "TiempoRespuestaPregunta2": 41.438507080078125,
+    "TiempoRespuestaPregunta3": 40.5594482421875,
+    "TiempoCapturarNumero": 8.892670631408691,
+    "TiempoTutorial": 63.94279098510742,
+    "TipoEscena": 1
+  },
+  "patient_info": {
+    "name": "Idail Pinto",
+    "age": 61,
+    "rut": "19.471.268-5",
+    "dominant_hand": "right",
+    "updated_at": "2025-12-04T21:08:46.391052Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-10-13T19:24:30.805954",
+  "session_id": "ad02dca1-358e-480a-936e-7ceeaf565c3e",
+  "data": {
+    "TiempoRespuestaPararse": 0.0,
+    "Precision": 67.03502655029297,
+    "TiempoActivoTarea": 382.5078125,
+    "CantAciertasTotales": 3,
+    "ObjetosInteractuadosCorrectamente": 3,
+    "TiempoRespuestaPregunta1": 41.423583984375,
+    "TiempoRespuestaPregunta2": 97.02578735351562,
+    "TiempoRespuestaPregunta3": 44.80316162109375,
+    "TiempoCapturarNumero": 21.088687896728516,
+    "TiempoTutorial": 246.22085571289062,
+    "TipoEscena": 1
+  },
+  "patient_info": {
+    "name": "Gloria Pizarro",
+    "age": 84,
+    "rut": "19.471.268-5",
+    "dominant_hand": "right",
+    "updated_at": "2025-10-13T19:27:37.287214Z"
+  }
+}
